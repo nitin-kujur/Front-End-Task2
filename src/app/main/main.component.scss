@@ -1,0 +1,32 @@
+#navigation_menu{
+    float: right;
+}
+.navbar{
+    background-color: rgba(31, 30, 30, 0.7);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height: 4rem;
+    overflow: hidden;
+    z-index: 1;
+}
+.banner{
+    margin-top: 4rem;;
+}
+.image_carosel{
+    margin-top: 1rem;
+}
+.navbar-brand{
+    color: whitesmoke;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+.navbar-brand span{
+    color: salmon;
+}
+
+ul li a{
+    color: white;
+    font-weight: 100;
+    letter-spacing: 0.5px;
+}
